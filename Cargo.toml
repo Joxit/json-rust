@@ -1,5 +1,5 @@
 [package]
-name = "json"
+name = "json-joxit-fork"
 version = "0.12.1"
 authors = ["Maciej Hirsz <hello@maciej.codes>"]
 description = "JSON implementation in Rust"
